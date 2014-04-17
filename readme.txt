@@ -1,7 +1,10 @@
 msp430SimpleDebugger
 ====================
 
-This is a program that implements a simple debugger on the MSPEXP430G2 development board
+This is a program that implements a simple debugger on the MSP-EXP430G2 development board
+
+The program enables for the user to communicate to the MSP-EXP430G2 using 
+the board's software Serial UART communication 
 
 
 To run this program, you will need to satisfy the list of dependencies:	Equipment List:		* Windows XP operating system1		* The MSPEXP430G2 LaunchPad		* HyperTerminal for Windows XP 1 or SCREEN on MacOSX		* Code composer studio 5.3 or MSPDebug for MacOSXIt is important you met the satisfactory requirements in order to run the application correctly. This report does not include an installation guides for the equipment list, so it is up to the user to install the necessary dependencies his/herself. Tutorial to run on MacOSX coming soon!============================================================
